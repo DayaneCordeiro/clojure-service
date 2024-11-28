@@ -13,3 +13,4 @@ pom.xml.asc
 .hg/
 CHANGELOG.md
 clojure-service.iml
+.idea
